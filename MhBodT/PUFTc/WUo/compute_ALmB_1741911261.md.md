@@ -105,7 +105,6 @@ Sources:
    * [Jonathan Touboul](http://mathematical-neuroscience.net/team/jonathan/) (Collège de France
 and INRIA Paris-Rocquencourt)
    * [Jean Ponce](http://www.di.ens.fr/~ponce/) (Ecole Normale Supérieure)
-      * [Yasutaka Furukawa](http://www.cse.wustl.edu/~furukawa/) (Washington University in St. Louis)
       * [Oliver Whyte](http://www.oliver-whyte.com/) (Microsoft)
       * [Y-Lan Boureau](http://cs.nyu.edu/~ylan/) (NYU)
       * [Olivier Duchenne](http://www.di.ens.fr/willow/publications/Author/DUCHENNE-O.html) (Inter Korea)
