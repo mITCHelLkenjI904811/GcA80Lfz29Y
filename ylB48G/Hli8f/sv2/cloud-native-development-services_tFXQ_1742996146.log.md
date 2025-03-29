@@ -6,7 +6,6 @@
 
 - Click **Demos** in the top navigation menu
 
-- Click the **Workshop Requests** button above the 'My Demo Registrations' table
 
 - Click the **Request Workshop** button
 
